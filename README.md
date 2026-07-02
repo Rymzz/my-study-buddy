@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🧸 My Study Buddy
+# My Study Buddy
 
 **A Flutter mobile app that helps students study in a healthier, more balanced way**
 
@@ -40,25 +40,23 @@ Most productivity apps focus only on tasks, timers, and streaks. I wanted to exp
 
 ## What Makes It Different
 
-| | |
-|---|---|
-| 🧠 **Mood-aware, not one-size-fits-all** | Exercises are chosen based on how the student actually feels, not a generic tip list |
-| 🎈 **Calm by design** | A soft, teddy-themed interface built to feel supportive rather than intimidating |
-| ⭐ **Gentle progress system** | Stars and constellations reward consistency without turning studying into a competition |
-| 🌱 **Small, realistic actions** | Every feature nudges toward one small next step instead of demanding perfection |
+- **Mood-aware, not one-size-fits-all** — exercises are chosen based on how the student actually feels, not a generic tip list.
+- **Calm by design** — a soft, teddy-themed interface built to feel supportive rather than intimidating.
+- **Gentle progress system** — stars and constellations reward consistency without turning studying into a competition.
+- **Small, realistic actions** — every feature nudges toward one small next step instead of demanding perfection.
 
 ## Features
 
-### ⏱️ Focus Timer
+### Focus Timer
 Start a study session and earn progress rewards on completion — a simple, low-friction way to build focus habits.
 
-### 🎭 Mood Check-In
+### Mood Check-In
 Students select how they feel — anxious, tired, overwhelmed, calm, focused, happy — and the app responds with a matching exercise: breathing, grounding, journaling, tiny steps, reframing, or intention setting.
 
-### 💬 Motivation Boost
+### Motivation Boost
 Pick what you're struggling with and get a short, encouraging message plus one concrete action you can take right now.
 
-### 📈 Progress Tracking
+### Progress Tracking
 A dedicated screen tracks completed sessions, stars earned, total focus time, and unlocked constellations, all persisted locally on the device.
 
 ## Screenshots
@@ -137,3 +135,4 @@ My Study Buddy is **not** a medical or therapeutic tool. It's a student producti
 
 **Rym Zidi**
 Computer Engineering Student
+
