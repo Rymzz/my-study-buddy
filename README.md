@@ -40,12 +40,28 @@ I added a progress page that tracks completed sessions, earned stars, total focu
 
 ## Screenshots
 
-<p align="center">
-  <img src="screenshots/home.png" width="220">
-  <img src="screenshots/timer.png" width="220">
-  <img src="screenshots/mood-checkin.png" width="220">
-  <img src="screenshots/progress.png" width="220">
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <img src="screenshots/home.png" width="220"><br>
+      <sub>Home Screen</sub>
+    </td>
+    <td align="center">
+      <img src="screenshots/timer.png" width="220"><br>
+      <sub>Focus Timer</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="screenshots/mood-checkin.png" width="220"><br>
+      <sub>Mood Check-In</sub>
+    </td>
+    <td align="center">
+      <img src="screenshots/progress.png" width="220"><br>
+      <sub>Progress Tracking</sub>
+    </td>
+  </tr>
+</table>
 
 ## Technologies Used
 
